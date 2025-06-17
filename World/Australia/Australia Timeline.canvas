@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"db3c99c3d1d47f4f","x":-240,"y":-560,"width":360,"height":1240,"type":"group","label":"Pacific Rim Timeline"},
+		{"id":"12c3418a99da0deb","x":-520,"y":-440,"width":720,"height":200,"type":"group","label":"1993"},
+		{"id":"7d45fbacf415b9e1","x":-520,"y":-240,"width":720,"height":120,"type":"group","label":"1994"},
+		{"id":"da62fc2f80733db1","x":-200,"y":-220,"width":280,"height":80,"type":"text","text":"[[Crash of '94]]\nWhile most national economies collapse, the Australian view is of a steeper part of the decline that has been happening since the mid-80's"},
+		{"id":"c0a4d49a6d868d30","x":-200,"y":-420,"width":280,"height":160,"type":"text","text":"The Australian Government announces intention to recognise Aboriginal ownership of traditional lands. Pressure from mining and farming intersts prompts Government to give priority in land claims to holders of existing leases. While most Aboriginals protest peacefully some begin quest for foreign recognition and aid for their cause"}
+	],
+	"edges":[]
+}

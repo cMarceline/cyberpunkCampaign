@@ -1,0 +1,1 @@
+[[Australia]] will be the setting of the current campaign

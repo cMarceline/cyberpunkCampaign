@@ -1,0 +1,1 @@
+from [[Federal Republic]] due to conflict over the interests of [[Aboriginal Land]]. [[Federal Republic]] wanting to federalise the land and return it to the native people's, with [[West Australia]] worrying that this would damage their relations with the [[Corporations]]. 
