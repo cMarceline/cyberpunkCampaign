@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
+                "file": "Characters/Player Characters/Rake Darkley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foreign Trade & Logistics Corporation of the Australian Republic"
+              "title": "Rake Darkley"
             }
           },
           {
@@ -108,8 +108,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
-                "collapseAll": false,
+                "file": "Characters/Player Characters/Rake Darkley.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Foreign Trade & Logistics Corporation of the Australian Republic"
+              "title": "Backlinks for Rake Darkley"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
+                "file": "Characters/Player Characters/Rake Darkley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Foreign Trade & Logistics Corporation of the Australian Republic"
+              "title": "Outgoing links from Rake Darkley"
             }
           },
           {
@@ -156,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
+                "file": "Characters/Player Characters/Rake Darkley.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Foreign Trade & Logistics Corporation of the Australian Republic"
+              "title": "Outline of Rake Darkley"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,40 +174,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a659260cf40ffefd",
+  "active": "c8a41e2cd795b088",
   "lastOpenFiles": [
-    "World/Australia/Federal Republic/Government/Australian Domestic Business Guiding Commission.md",
+    "Characters/Player Characters/Stick Darkley.md",
+    "Characters/NPCs/The Darkley Family/The Darkley Family.md",
+    "Characters/NPCs/The Darkley Family/Britanny Darkley.md",
+    "Characters/Player Characters/Rake Darkley.md",
+    "World/Australia/West Australia/Perth/Perth.md",
+    "World/Australia/West Australia/Perth/Districts/Green District.md",
+    "World/Australia/West Australia/Perth/Districts",
+    "World/Australia/West Australia/Perth/Untitled.md",
+    "Characters/Player Characters/Character Sheets/Rake/rake-2025-06-21.pdf",
+    "Characters/NPCs/The Darkley Family",
+    "Characters/Player Characters/Character Sheets/Rake",
+    "Characters/Player Characters/Character Sheets",
+    "Characters/Player Characters/Character Sheets/Rake/Rake.pdf",
+    "Characters/NPCs",
+    "Characters/Player Characters",
+    "Characters/Untitled.md",
+    "Untitled.md",
+    "create a link.md",
+    "Perth Toner.png",
+    "Tools/Map Making.md",
+    "Tools",
+    "Characters",
     "World/Australia/West Australia/West Australia.md",
+    "World/World.md",
     "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
-    "World/Australia/Federal Republic/Local Business",
-    "World/Australia/Federal Republic/Political Parties",
+    "World/Australia/Federal Republic/Government/Australian Domestic Business Guiding Commission.md",
     "World/Australia/Australia.md",
     "World/Australia/Federal Republic/Federal Republic.md",
     "World/Australia/Federal Republic/Government/Government.md",
-    "World/Australia/Federal Republic/Government",
-    "Characters",
-    "World/World.md",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png",
-    "World/Australia/Federal Republic",
-    "World/Australia/West Australia",
     "World/Australia/Succession of West Australia.md",
     "Sourcebooks/Pacific Rim.md",
     "Sourcebooks/Core Rulebook.md",
     "Welcome.md",
-    "Sourcebooks/Untitled.md",
-    "Sourcebooks",
-    "World/Australia",
-    "Untitled.md",
-    "World",
-    "create a link.md"
+    "Sourcebooks/Untitled.md"
   ]
 }
