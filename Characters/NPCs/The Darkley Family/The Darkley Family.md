@@ -12,4 +12,4 @@ WHERE Family = [[The Darkley Family]]
 ## The [[Britanny Darkley|Britanny]] train incident
 [[Britanny Darkley]] fucking died in a train accident. Each member of the family will have a heading of how this affected them each.
 
-On cool December day in 1999, [[Britanny Darkley]] was out clubbing and fell onto the tracks
+On a cool December day in 1999, [[Britanny Darkley]] was out clubbing and fell onto the tracks
