@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90f0d4306ba3cb80",
+        "id": "60b5b2a48c3e5484",
         "type": "tabs",
         "children": [
           {
-            "id": "fed5ed23c1334782",
+            "id": "f776bbc749118f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fed5ed23c1334782",
+  "active": "f776bbc749118f96",
   "lastOpenFiles": [
-    "Core Rulebook.md",
+    "Sourcebooks/Core Rulebook.pdf",
     "!Templates/Expendables.md",
+    "Core Rulebook.md",
     "Sourcebooks/Core Rulebook.md",
     "Tools/Callouts.md",
     "Characters/NPCs/The Fucking Furry Pirate Family For Peace/The Fucking Furry Pirate Family For Peace.md",
@@ -212,7 +213,6 @@
     "Characters/Player Characters/Untitled.md",
     "Floating.md",
     "Planks.md",
-    "Characters/NPCs/Lorem Ipsum.md",
     "Characters/Player Characters/Character Sheets/Rake/rake-2025-06-21.pdf",
     "World/Australia/Australia Timeline.canvas",
     "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree",
@@ -220,7 +220,6 @@
     "Characters/NPCs/The Fucking Furry Pirate Family For Peace",
     "Sessions",
     "World/Australia/West Australia/Perth/Districts",
-    "Characters/NPCs/The Darkley Family",
     "Pasted image 20250618013735.png"
   ]
 }
