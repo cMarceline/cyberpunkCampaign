@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Gang
+---
 # Motivations
 > [!Summary] *Quick Line*
 # Activities
