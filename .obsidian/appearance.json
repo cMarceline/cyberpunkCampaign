@@ -1,5 +1,10 @@
 {
   "cssTheme": "LYT Mode",
   "theme": "obsidian",
-  "accentColor": "#b89ef5"
+  "accentColor": "#b89ef5",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "Block_reference_embed"
+  ]
 }
