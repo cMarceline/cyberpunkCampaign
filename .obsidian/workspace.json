@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Player Characters/Rake Darkley.md",
+                "file": "Characters/Player Characters/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rake Darkley"
+              "title": "Untitled"
             }
           },
           {
@@ -27,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Plans/Overall Arcs/Arc 4 - Sometimes it's about the locals.md",
+                "file": "World/Australia/Succession of West Australia.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arc 4 - Sometimes it's about the locals"
+              "title": "Succession of West Australia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4a814dc84e186696",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Player Characters/Rake Darkley.md",
+                "file": "Characters/Player Characters/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rake Darkley"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Player Characters/Rake Darkley.md",
+                "file": "Characters/Player Characters/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rake Darkley"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -157,17 +157,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Plans/Overall Arcs/Arc 4 - Sometimes it's about the locals.md",
+                "file": "Characters/Player Characters/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arc 4 - Sometimes it's about the locals"
+              "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,20 +182,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca0d25719301ce4b",
+  "active": "a659260cf40ffefd",
   "lastOpenFiles": [
-    "Session Plans/Overall Arcs/Arc 3 - Take It Day by Day.md",
-    "Session Plans/Overall Arcs/Arc 2 - Consciousness???.md",
-    "Session Plans/Overall Arcs/Arc 1 - Barking Up the Wrong Tree.md",
-    "Session Plans/Overall Arcs/Arc 4 - Sometimes it's about the locals.md",
+    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree/Session 1 Plan - Forming the Gang.md",
+    "Characters/Player Characters/Untitled.md",
+    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree/Arc 1 - Barking Up the Wrong Tree.md",
+    "Sessions/Sessions.md",
+    "Cyber Ego-Death.md",
+    "World/Australia/Succession of West Australia.md",
+    "Characters/Player Characters/Character Sheets/Rake/rake-2025-06-21.pdf",
+    "Characters/Player Characters/Rake Darkley.md",
+    "World/Australia/Australia Timeline.canvas",
+    "Sessions/Overall Arcs/Arc 4 - Sometimes it's about the locals.md",
+    "Sessions/Overall Arcs/Arc 3 - Take It Day by Day.md",
+    "Sessions/Overall Arcs/Arc 2 - Consciousness???.md",
+    "Characters/NPCs/The Cheggs.md",
+    "Characters/Player Characters/Character Sheets/Stick.md",
+    "Characters/Player Characters/Stick Darkley.md",
     "Characters/NPCs/The Darkley Family/The Darkley Family.md",
-    "Session Plans/Overall Arcs",
+    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree",
+    "Sessions/Overall Arcs",
     "Untitled",
     "Characters/NPCs/Untitled",
-    "Characters/Player Characters/Stick Darkley.md",
-    "Characters/Player Characters/Rake Darkley.md",
-    "Session Plans/Session Plans.md",
-    "Session Plans",
+    "Sessions",
     "Sourcebooks/Untitled.md",
     "Yell.txt.md",
     "Characters/NPCs/The Darkley Family/Britanny Darkley.md",
@@ -204,11 +212,9 @@
     "World/Australia/West Australia/Perth/Districts/Green District.md",
     "World/Australia/West Australia/Perth/Districts",
     "World/Australia/West Australia/Perth/Untitled.md",
-    "Characters/Player Characters/Character Sheets/Rake/rake-2025-06-21.pdf",
     "Characters/NPCs/The Darkley Family",
     "Characters/Player Characters/Character Sheets/Rake",
     "Characters/Player Characters/Character Sheets",
-    "Characters/Player Characters/Character Sheets/Rake/Rake.pdf",
     "Characters/Untitled.md",
     "create a link.md",
     "Perth Toner.png",
@@ -216,13 +222,6 @@
     "World/Australia/West Australia/West Australia.md",
     "World/World.md",
     "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
-    "World/Australia/Federal Republic/Government/Australian Domestic Business Guiding Commission.md",
-    "World/Australia/Australia.md",
-    "World/Australia/Federal Republic/Federal Republic.md",
-    "World/Australia/Federal Republic/Government/Government.md",
-    "World/Australia/Australia Timeline.canvas",
-    "Pasted image 20250618013735.png",
-    "World/Australia/Succession of West Australia.md",
-    "Sourcebooks/Pacific Rim.md"
+    "Pasted image 20250618013735.png"
   ]
 }
