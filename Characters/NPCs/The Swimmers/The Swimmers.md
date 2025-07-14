@@ -18,7 +18,6 @@ Rumours float about that some [[Planks]] enact violence upon their members to tr
 # History
 While unknown to most members of both the gang and the public. It entered into Perth shortly after the [[Aussie Indovasion]] 
 # Members
-> 
 # [[Slang]]
 
 > [!Example]-  Swimming

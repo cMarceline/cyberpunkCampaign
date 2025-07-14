@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60b5b2a48c3e5484",
+        "id": "60030190e402191b",
         "type": "tabs",
         "children": [
           {
-            "id": "f776bbc749118f96",
+            "id": "0d948bb8b522689b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Templates/Expendables.md",
+                "file": "!Templates/Player Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expendables"
+              "title": "Player Character"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!Templates/Expendables.md",
+                "file": "!Templates/Player Character.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Expendables"
+              "title": "Backlinks for Player Character"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!Templates/Expendables.md",
+                "file": "!Templates/Player Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Expendables"
+              "title": "Outgoing links from Player Character"
             }
           },
           {
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!Templates/Expendables.md",
+                "file": "!Templates/Player Character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expendables"
+              "title": "Outline of Player Character"
             }
           },
           {
@@ -165,7 +165,8 @@
               "title": "Callouts"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,38 +182,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f776bbc749118f96",
+  "active": "0d948bb8b522689b",
   "lastOpenFiles": [
-    "Sourcebooks/Core Rulebook.pdf",
+    "Characters/Player Characters/Rake Darkley.md",
+    "!Templates/Player Character.md",
+    "!Templates/Key Character.md",
+    "!Templates/Gang.md",
+    "!Templates/Family.md",
     "!Templates/Expendables.md",
+    "Tools/Callouts.md",
+    "Characters/Player Characters/Stick Darkley.md",
+    "Characters/NPCs/The Swimmers/The Swimmers.md",
+    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree/Session 1 Plan - Forming the Gang.md",
+    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree/Arc 1 - Barking Up the Wrong Tree.md",
+    "Sessions/Sessions.md",
+    "Slang.md",
+    "Sourcebooks/Core Rulebook.pdf",
+    "Perth Toner.png",
+    "Characters/NPCs/The Darkley Family/The Darkley Family.md",
+    "Characters/NPCs/The Darkley Family/Britanny Darkley.md",
+    "Characters/NPCs/The Fucking Furry Pirate Family For Peace/The Fucking Furry Pirate Family For Peace.md",
+    "World/Australia/West Australia/Perth/Districts/Green District.md",
+    "World/World.md",
+    "World/Australia/Federal Republic/Government/Government.md",
+    "World/Australia/Federal Republic/Federal Republic.md",
+    "!Templates/Expendables 1.md",
     "Core Rulebook.md",
     "Sourcebooks/Core Rulebook.md",
-    "Tools/Callouts.md",
-    "Characters/NPCs/The Fucking Furry Pirate Family For Peace/The Fucking Furry Pirate Family For Peace.md",
     "Sourcebooks/Pacific Rim.md",
-    "Slang.md",
-    "Perth Toner.png",
-    "!Templates/Gang.md",
-    "Characters/NPCs/The Swimmers/The Swimmers.md",
-    "!Templates/Family.md",
-    "!Templates/Key Character.md",
-    "!Templates/Player Character.md",
     "!Templates",
     "Untitled.md",
-    "Characters/NPCs/The Darkley Family/Britanny Darkley.md",
-    "Characters/Player Characters/Rake Darkley.md",
-    "Characters/NPCs/The Darkley Family/The Darkley Family.md",
     "Characters/NPCs/The Swimmers/Cyber Ego-Death.md",
-    "World/World.md",
-    "Tools/Map Making.md",
-    "Sourcebooks/Untitled.md",
     "Characters/NPCs/The Swimmers/Members",
     "Characters/NPCs/The Swimmers",
-    "World/Australia/Federal Republic/Government/Foreign Trade & Logistics Corporation of the Australian Republic.md",
-    "World/Australia/Australia.md",
-    "Characters/Player Characters/Untitled.md",
-    "Floating.md",
-    "Planks.md",
     "Characters/Player Characters/Character Sheets/Rake/rake-2025-06-21.pdf",
     "World/Australia/Australia Timeline.canvas",
     "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree",

@@ -1,10 +1,10 @@
 ---
 aliases:
   - Rake
-Note Type: PC
 Family: "[[The Darkley Family]]"
+tags:
+  - PC
 ---
-
 > [!TLDR] Archetype
 > A sleezy loosecannon
 

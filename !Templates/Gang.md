@@ -1,14 +1,11 @@
 # Motivations
-
+> [!Summary] *Quick Line*
 # Activities
 
 # Crime
 > [!tip] Lorem Ipsum
-### Drug
 
-### Violence
-
-### Other
+*Generally drugs and violence are specialties*
 # History
 ### Founding
 ### Wars
