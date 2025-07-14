@@ -10,7 +10,8 @@
 They will **recycle abandoned buildings** often within the [[Perth Combat Zone]] and "Purify" them into a **boarding home** of sorts for it's members to participate in it's many rituals to get closer to
 
 # Crime
-> [!tip] While **not a crime body** they often do participate in criminal activity and organise crime in the name of their pursuits
+
+> [!Warning] While **not a crime body** they often do participate in criminal activity and organise crime in the name of their pursuits
 ### Drug Activity
 Participatory in the **Trade, Distribution, and Composition** of illicit drugs.
 ### Violence
