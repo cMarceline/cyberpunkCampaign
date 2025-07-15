@@ -4,6 +4,7 @@
   "accentColor": "#b89ef5",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "clean-embeds"
+    "S - Embed Adjustments",
+    "custom-callouts"
   ]
 }

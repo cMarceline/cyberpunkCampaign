@@ -2,7 +2,7 @@
 aliases:
   - Bogie
 ---
-[[Ghost|Ghosts]] are the **digitised reincarnation of your loved ones**, for you and you only! If you were to believe [[Rake Darkley]]. In reality, at best it's an **[[AI]] made to sound and act like them**, at worst it's the **most manipulative marketeer**
+[[Ghost|Ghosts]] are the **digitised reincarnation of your loved ones**, for you and you only! If you were to believe [[Rake Darkley]]. In reality, at best it's an **LLM made to sound and act like them**, at worst it's the **most manipulative marketeer**
 
 # Tech
 Installed with **just a stolen [[Relic]] chip**. Easy, painless. **Integrated** into every facet of the brain
@@ -34,7 +34,6 @@ It's not off the cards that ones' Loved one will **occasionally parrot some comm
 # History
 
 [[Rake Darkley]] and [[Rake's Partner]] working at [[Arasaka]] catch wind of Arasaka's projects pertaining to the [[Soulkiller]] project and their exclusive [[Relic]] chips. Weaponisation just wasn't cutting it for [[Rake Darkley|Rake]] though, the potential for digital humans was **too great a marketing opportunity.** Hence making [[Ghost|Ghosts]]:
-
 > [!DANGER]- Stolen Arasaka Tech
 > [[Relic|Relics]] are capable of 
 

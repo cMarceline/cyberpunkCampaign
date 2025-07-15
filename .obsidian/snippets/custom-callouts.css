@@ -1,0 +1,4 @@
+.callout[data-callout="cyberware"] {
+    --callout-color: 184, 148, 200;
+    --callout-icon: microchip;
+}

@@ -1,3 +1,9 @@
+# Custom
+Icons by Lucide
+> [!CYBERWARE] Cyberware
+
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Embed+Adjustments#Heading+%26+Titles
+# Default
 > [!NOTE]
 
 > [!ABSTRACT]
@@ -39,7 +45,5 @@
 >[!Idea]
 
 >[!Related]
-
-
 
 

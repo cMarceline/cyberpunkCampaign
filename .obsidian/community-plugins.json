@@ -1,9 +1,8 @@
 [
-  "obsidian-tasks-plugin",
-  "obsidian-git",
-  "settings-search",
   "dataview",
   "folder-notes",
+  "obsidian-git",
   "multi-properties",
+  "settings-search",
   "obsidian-style-settings"
 ]

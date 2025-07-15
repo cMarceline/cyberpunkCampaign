@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9d022a385ae1204",
+        "id": "74dfb8952bdf3d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b4fd89ace2699945",
+            "id": "ebd37f19d0d0e9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Australia/West Australia/Perth/Perth.md",
+                "file": "Gear/Cyberware/Speedware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perth"
+              "title": "Speedware"
             }
           }
         ]
@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "World/Australia/West Australia/Perth/Perth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Perth"
             }
           },
           {
@@ -168,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,45 +182,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4fd89ace2699945",
+  "active": "a659260cf40ffefd",
   "lastOpenFiles": [
-    "Sourcebooks/Listen Up.pdf",
-    "Sourcebooks/Pacific Rim.pdf",
-    "Pacific Rim.pdf",
-    "Sourcebooks/Chromebook 3-4.pdf",
+    "Gear/Weapons",
+    "Gear",
+    "Cyberware/Untitled",
+    "Gear/Cyberware/MicrowaveEMP Shielding.md",
+    "Gear/Cyberware/Bodyweight Vein Clips.md",
+    "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
+    "Characters/Player Characters/Stick Darkley/CharSheet.pdf",
     "Sourcebooks/Chromebook 1-2.pdf",
-    "Tools/Callouts.md",
-    "World/Australia/West Australia/Perth/Perth.md",
-    "World/Australia/West Australia/Perth/Districts/Green District.md",
-    "World/Australia/West Australia/Perth/Districts/Red District.md",
-    "World/Australia/West Australia/Perth/Districts/White District.md",
-    "Perth Toner.png",
-    "World/World.md",
-    "Concepts/Ghost.md",
-    "Rake's Partner.md",
-    "Soulkiller.md",
-    "Concepts/Cyber Ego-Death.md",
-    "Characters/NPCs/The Swimmers/Members/Will Wood.md",
-    "Characters/Player Characters/Sarah FFPFFP.md",
-    "Player Characters.md",
-    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree/Session 1 Plan - Forming the Gang.md",
-    "Haunting.md",
-    "Haunt.md",
-    "Slang.md",
-    "Characters/NPCs/The Swimmers/The Swimmers.md",
+    "Sourcebooks/Chromebook 3-4.pdf",
+    "Gear/Cyberware/Corvette Cyberlegs.md",
     "Sourcebooks/Core Rulebook.pdf",
-    "Characters/NPCs/The Darkley Family/Britanny Darkley.md",
-    "Concepts",
-    "Concepts.md",
-    "Sessions/Sessions.md",
-    "Locales/Stick Darkley Clinic.md",
-    "Locales",
-    "Locales/SFC.md",
-    "Sessions/Overall Arcs/Arc 1 - Barking Up the Wrong Tree/Arc 1 - Barking Up the Wrong Tree.md",
-    "Characters/Player Characters/Valerie FFPFFP.md",
-    "Characters/Companies",
-    "!Templates",
-    "Characters/NPCs/The Swimmers/Members",
+    "Gear/Cyberware/Chemical Analyser.md",
+    "Gear/Cyberware/Cyberlegs.md",
+    "Gear/Cyberware/Speedware.md",
+    "Gear/Cyberware/Chipware Socket.md",
+    "World/Australia/West Australia/Perth/Districts/Red District.md",
+    "World/Australia/West Australia/Perth/Districts/Green District.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Slang.md",
+    "Gear/Cyberware/Times Square Plus.md",
+    "Characters/NPCs/Rake's Partner.md",
+    "World/Australia/West Australia/Perth/Perth Toner.png",
+    "World/Australia/West Australia/Perth/Perth.md",
+    "Haunting.md",
+    "Characters/Player Characters/Rake Darkley/Rake Darkley.md",
+    "Gear/Cyberware/Fresco's Personal Nano-Groomers.md",
+    "Gear/Cyberware/Neuralware (processor).md",
+    "Gear/Cyberware/Nasal Filters.md",
+    "Gear/Cyberware/Muscle and Bone Lace.md",
+    "Gear/Cyberware/Modular Hand.md",
+    "Gear/Cyberware/Medical Modular Hand.md",
+    "Gear/Cyberware/MachineTech Link.md",
+    "Gear/Cyberware",
+    "Characters/Player Characters/Valerie FFPFFP",
+    "Characters/Player Characters/Sarah FFPFFP",
+    "Characters/Player Characters/Rake Darkley",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
   ]
