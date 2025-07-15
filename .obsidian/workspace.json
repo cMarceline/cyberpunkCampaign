@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear/Cyberware/Speedware.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Speedware"
+              "title": "Stick Darkley"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Australia/West Australia/Perth/Perth.md",
+                "file": "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perth"
+              "title": "Backlinks for Stick Darkley"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Stick Darkley"
             }
           },
           {
@@ -169,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,20 +184,29 @@
   },
   "active": "a659260cf40ffefd",
   "lastOpenFiles": [
+    "Characters/Player Characters/!Retired",
+    "Characters/Player Characters/Cello's Inevitable Char",
+    "Characters/Player Characters/Stick Darkley/CharSheet.pdf",
+    "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
+    "Tools/Callouts.md",
+    "!Templates/Characters/Player Character.md",
+    "!Templates/Characters/Key Character.md",
+    "!Templates/Characters/Gang.md",
+    "!Templates/Characters/Family.md",
+    "!Templates/Characters/Expendables.md",
+    "Gear/Cyberware/Speedware.md",
+    "Sourcebooks/Pacific Rim.md",
     "Gear/Weapons",
     "Gear",
     "Cyberware/Untitled",
     "Gear/Cyberware/MicrowaveEMP Shielding.md",
     "Gear/Cyberware/Bodyweight Vein Clips.md",
-    "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
-    "Characters/Player Characters/Stick Darkley/CharSheet.pdf",
     "Sourcebooks/Chromebook 1-2.pdf",
     "Sourcebooks/Chromebook 3-4.pdf",
     "Gear/Cyberware/Corvette Cyberlegs.md",
     "Sourcebooks/Core Rulebook.pdf",
     "Gear/Cyberware/Chemical Analyser.md",
     "Gear/Cyberware/Cyberlegs.md",
-    "Gear/Cyberware/Speedware.md",
     "Gear/Cyberware/Chipware Socket.md",
     "World/Australia/West Australia/Perth/Districts/Red District.md",
     "World/Australia/West Australia/Perth/Districts/Green District.md",
@@ -210,17 +219,8 @@
     "World/Australia/West Australia/Perth/Perth.md",
     "Haunting.md",
     "Characters/Player Characters/Rake Darkley/Rake Darkley.md",
-    "Gear/Cyberware/Fresco's Personal Nano-Groomers.md",
-    "Gear/Cyberware/Neuralware (processor).md",
-    "Gear/Cyberware/Nasal Filters.md",
-    "Gear/Cyberware/Muscle and Bone Lace.md",
-    "Gear/Cyberware/Modular Hand.md",
-    "Gear/Cyberware/Medical Modular Hand.md",
-    "Gear/Cyberware/MachineTech Link.md",
     "Gear/Cyberware",
     "Characters/Player Characters/Valerie FFPFFP",
-    "Characters/Player Characters/Sarah FFPFFP",
-    "Characters/Player Characters/Rake Darkley",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
   ]

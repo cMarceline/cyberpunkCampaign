@@ -25,23 +25,25 @@ Cyberware:
   - "[[MicrowaveEMP Shielding|Leg EMP Shielding]]"
   - "[[Medical Modular Hand]]"
 ---
+^properties
 > [!TLDR] Archetype
 > Troublingly curious healer
 
-> [!Summary] Playstlye
+> [!Summary] Playstyle
 > Contents
 
 # Backstory
 # Stats
+
 # Gear
+## Weapons
 ## Cyberware
 
->[!Fail] Too Many Cyberoptics!!! WDYM Armour?
->
+>[!Fail] Too Many Cyberoptics!!! WDYM Armour? Skullcap or Cowl?
 
 ```dataview
 TABLE Type, ID, Description, EB, HLoss
-FROM outgoing([[Stick Darkley]]) AND #Cyberware 
+FROM outgoing([[#^properties]]) AND #Cyberware 
 SORT Type
 ```
 
