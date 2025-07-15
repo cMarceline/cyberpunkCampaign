@@ -16,18 +16,18 @@ Dead?: false
 > 
 # Stats 
 
-| **Stat** | **#** | **EQUIP** | **#** | **SKILLS** ^skills |     |
-| -------- | ----- | --------- | ----- | ------------------ | --- |
-| INT      |       | ARMOR     |       |                    |     |
-| REF      |       | WEAPON    |       |                    |     |
-| TECH     |       | **SP**    |       |                    |     |
-| COOL     |       | HEAD      |       |                    |     |
-| ATTR     |       | TORSO     |       |                    |     |
-| LUCK     |       | RARM      |       |                    |     |
-| MA       |       | LARM      |       |                    |     |
-| BODY     |       | RLEG      |       |                    |     |
-| EMP      |       | LLEG      |       |                    |     |
-| **Save** |       | **BTM**   |       |                    |     |
+| **Stat** |     | **EQUIP** |               | **SKILLS** ^skills |     |
+| -------- | --- | --------- | ------------- | ------------------ | --- |
+| *INT*    | 8   | *ARMOR*   | Heavy Leather |                    |     |
+| *REF*    | 10  | *WEAPON*  | Light Pistol  |                    |     |
+| *TECH*   | 7   | **SP**    |               |                    |     |
+| *COOL*   | 3   | *HEAD*    |               |                    |     |
+| *ATTR*   | 8   | *TORSO*   |               |                    |     |
+| *LUCK*   | 6   | *RARM*    |               |                    |     |
+| *MA*     | 4   | *LARM*    |               |                    |     |
+| *BODY*   | 4   | *RLEG*    |               |                    |     |
+| *EMP*    | 5   | *LLEG*    |               |                    |     |
+| **Save** | 4   | **BTM**   |               |                    |     |
 >[!TODO]- How to Stat block?[^1]
  *2d6 9 times, reroll anything >11 put into* ***Stat***
 *Select [[#^role]].* ***Skills*** *Based on [[Core Rulebook.pdf#page=47|Career Pack]], Divide 40 points appropriately*

@@ -1,3 +1,6 @@
 ![[Perth Toner.png]]
 
-Perth is the Capital of [[West Australia]] and the 
+> [!SUCCESS] ## Capital of [[West Australia]] <br> current Setting of the Campaign
+
+# Geography
+Perth occupies a very unique niche in [[Australia]] as a major [[Corporations|Corporate Hub]]. 

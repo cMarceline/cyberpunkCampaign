@@ -5,7 +5,7 @@ aliases:
 [[Ghost|Ghosts]] are the **digitised reincarnation of your loved ones**, for you and you only! If you were to believe [[Rake Darkley]]. In reality, at best it's an **[[AI]] made to sound and act like them**, at worst it's the **most manipulative marketeer**
 
 # Tech
-Installed with **just a [[Cyberware]] chip**. Easy, painless. **Integrated** into every facet of the brain
+Installed with **just a stolen [[Relic]] chip**. Easy, painless. **Integrated** into every facet of the brain
 First is a **[[Braindance]]** so that we can **digitise some good memories** of your loved one.
 Once that's done it can be **recorded into a hard drive and copied into a chip**
 
@@ -19,7 +19,7 @@ Once installed it is a **digital construct** that appears to **only the user**
 It will attempt to **Alleviate Grief** by making itself **Seem Real**
 In addition it will **Affirm the user** to make good decisions
 
-> [!QUOTE] Any **Good Loved One** will keep you **Tied to Reality** and **Making Good Choices** <br> -*Rake probably idk lol*
+> [!QUOTE] Any **Good Loved One** will keep you **Tied to Reality** and **Making Good Choices** <br> -*[[Rake Darkley|Rake]] probably idk lol*
 
 Who cares if reality isn't shared with others? **A chip's as real as it gets!**
 You know what else is real. This **Sponsorship Deal!**
@@ -32,6 +32,12 @@ It's not off the cards that ones' Loved one will **occasionally parrot some comm
 > [[Ghost|Bogie's]] just want to be loved though.
 
 # History
+
+[[Rake Darkley]] and [[Rake's Partner]] working at [[Arasaka]] catch wind of Arasaka's projects pertaining to the [[Soulkiller]] project and their exclusive [[Relic]] chips. Weaponisation just wasn't cutting it for [[Rake Darkley|Rake]] though, the potential for digital humans was **too great a marketing opportunity.** Hence making [[Ghost|Ghosts]]:
+
+> [!DANGER]- Stolen Arasaka Tech
+> [[Relic|Relics]] are capable of 
+
 # [[Ghost]] slang (can't believe this needs it's own thing)
 
 >[!Example]- Bogie
@@ -40,7 +46,7 @@ It's not off the cards that ones' Loved one will **occasionally parrot some comm
 
 >[!Example]- Haunts
 >People with [[Ghost|Ghosts]] installed. 
->Often used on those losing their sanity to them through [[Haunting]]
+>Often applied to those losing their sanity through [[#^Haunting]]
 >^Haunts
 
 >[!Example]- Haunting
